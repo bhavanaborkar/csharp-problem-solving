@@ -1,5 +1,4 @@
 //Leetcode => 2269. Find the K-Beauty of a Number
-public class Solution {
     public int DivisorSubstrings(int num, int k) {
         int i =0,j=0;
         int count = 0;
@@ -21,4 +20,4 @@ public class Solution {
         }
         return count;
     }
-}
+
